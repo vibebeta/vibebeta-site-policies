@@ -4,7 +4,7 @@ body {
 	font-family: "Poppins", sans-serif;
 	font-style: normal;
 	font-weight: 400;
-	font-size: 16px;
+	font-size: clamp(10px, 2vw, .5rem);
 	line-height: 31px;
 	letter-spacing: 1.5px;
 	color: #3c4043;
@@ -13,5 +13,5 @@ body {
 h1,
 h3 {
     color: #27A4FF;
-    font-weight: 700;
+    font-weight: 700 !important;
 }

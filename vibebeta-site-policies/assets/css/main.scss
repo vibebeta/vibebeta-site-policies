@@ -5,11 +5,11 @@
 
 
 .container{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
 .universal{
     width: min(70vw, 90%);
-    font-size: clamp(10px, 2vw, .7rem);
+    font-size: clamp(9px, 1.2vw, .2rem);
 }
