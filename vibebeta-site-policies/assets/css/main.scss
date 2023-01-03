@@ -3,6 +3,13 @@
 ---
 @import "typography";
 
+
 .container{
-    padding-inline: 4rem;
+    width: 80%;
+    margin: auto;
+}
+
+.universal{
+    width: min(70vw, 90%);
+    font-size: clamp(10px, 2vw, .7rem);
 }
