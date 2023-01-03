@@ -5,7 +5,7 @@ permalink: /policies/
 --- 
 
 Creative Commons Legal Code
-
+<div class="universal" >
 CC0 1.0 Universal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
@@ -16,7 +16,7 @@ CC0 1.0 Universal
     PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
-
+</div>
     
 <h1>Statement of Purpose</h1>
 
