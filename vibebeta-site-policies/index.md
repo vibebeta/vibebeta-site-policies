@@ -1,7 +1,7 @@
 ---
-layout: policies
+layout: policiesLayout
 title: site policies
-permalink: /policies/
+permalink: /
 --- 
 
 Creative Commons Legal Code
