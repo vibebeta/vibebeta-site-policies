@@ -1,6 +1,7 @@
 <ul>
-    <li>Summary</li>
-    <li>Accountable use</li>
-    <li>Account Terms</li>
-    <li>Copyright infringement</li>
+    {% for pages in site.pages %}
+    <li>
+        <a class="link" href="{{ pages.url }}">{{ pages.title }}</a>
+    </li>
+    {% endfor %}
 </ul>
