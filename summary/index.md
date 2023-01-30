@@ -1,10 +1,10 @@
 ---
 layout: policiesLayout
-title: account terms
-permalink: /accountTerms/
+title: summary
+permalink: /summary
 --- 
 
-### account terms
+### summary
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae cum sequi veniam ab non fugit suscipit laborum, ex repellat rerum delectus fuga iure? Sunt libero et minima eum totam ipsam!
 

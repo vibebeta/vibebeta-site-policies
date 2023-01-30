@@ -1,7 +1,7 @@
 ---
 layout: policiesLayout
 title: acountable use
-permalink: /accountableUse/
+permalink: /accountableUse
 --- 
 
 ### account use
