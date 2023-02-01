@@ -1,7 +1,7 @@
 ---
 layout: policiesLayout
 title: copyright infringement
-permalink: /
+permalink: /copyright-infringement
 --- 
 ### copy right
 
