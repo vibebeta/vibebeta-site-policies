@@ -1,7 +1,7 @@
 ---
 layout: policiesLayout
 title: account terms
-permalink: /accountTerms
+permalink: /
 --- 
 
 ### account terms
